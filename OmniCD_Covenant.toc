@@ -1,0 +1,9 @@
+## Interface: 90005
+## Title: OmniCD: Covenant (plugin)
+## Notes: Attempts to fetch other players' covenant from addon message and combat log for OmniCD.
+## RequiredDeps: OmniCD
+## Author: @project-author@
+## Version: @project-version@
+## X-License: MIT
+
+Core.lua
