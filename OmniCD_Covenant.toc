@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: OmniCD: Covenant (plugin)
 ## Notes: Attempts to fetch other players' covenant from addon message and combat log for OmniCD.
 ## RequiredDeps: OmniCD
